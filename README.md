@@ -18,6 +18,8 @@
 
 ## 其他平台发布
 
-#### Github： [https://xvxn8899.github.io/](https://xvxn8899.github.io/)
-#### 邮箱获取：[XVXN888@Gmail.com](mailto:xvxn888@gmail.com)
+__Github：__[https://xvxn8899.github.io/](https://xvxn8899.github.io/)
+
+__邮箱获取：__[XVXN888@Gmail.com](mailto:xvxn888@gmail.com)
+
 发送任意内容至邮箱可自动获取最新地址
