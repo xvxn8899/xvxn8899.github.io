@@ -22,4 +22,4 @@ __Github：__[https://xvxn8899.github.io](https://xvxn8899.github.io/)
 
 __邮箱获取：__[XVXN888@Gmail.com](mailto:xvxn888@gmail.com)
 
-发送任意内容至邮箱可自动获取最新地址
+发送任意内容至邮箱也可获取地址
