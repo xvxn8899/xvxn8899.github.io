@@ -94,7 +94,7 @@ body {
 }
 
 .release-body .title h2 {
-    font-size: 35px;
+    font-size: 40px;
     font-weight: 700;
     letter-spacing: 2px;
     margin: 0;
@@ -144,10 +144,15 @@ body {
     font-weight: bold;
     color: #ffffff;
     background-color: #333;
+    line-height: 1.5;
 }
 
 .release-main .links ul h2{
     padding: 20px 0;
+}
+
+.ph{
+    background: #ff621e;
 }
 
 .xv{
@@ -263,10 +268,6 @@ footer p {
 
     .release-body .title {
         padding: 20px 0
-    }
-
-    .release-body .title h2 {
-        font-size: 24px
     }
 
     .release-body .title p {
