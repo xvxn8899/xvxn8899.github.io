@@ -1,6 +1,6 @@
 # XVXN - 国内免翻优化版
 
-<img src="/img/xn.png" width = 90 height = 30> <img src="/img/xv.png" width = 120 height = 30> <img src="/img/ph.png" width = 120 height = 30>
+<img src="/img/ph.png" width = 90 height = 30> <img src="/img/xn.png" width = 90 height = 30> <img src="/img/xv.png" width = 120 height = 30>
 
 国内无需梯子 且 永久免费无限制
 
