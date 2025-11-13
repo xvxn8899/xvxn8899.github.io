@@ -1,4 +1,4 @@
-# XVXN - 国内免翻优化版
+# 500.im - 国内免翻优化版
 
 <img src="/img/ph.png" width = 90 height = 30>
 <img src="/img/xn.png" width = 90 height = 30>
