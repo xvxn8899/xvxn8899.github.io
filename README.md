@@ -1,10 +1,8 @@
 # 500.im - 国内免翻优化版
 
-<img src="/img/ph.png" width = 90 height = 30>
-<img src="/img/xn.png" width = 90 height = 30>
-<img src="/img/xv.png" width = 120 height = 30>
+<img src="https://github.com/xvxn8899/xvxn8899.github.io/raw/main/img/ph.png" width = 100 height = 30> <img src="https://github.com/xvxn8899/xvxn8899.github.io/raw/main/img/xn.png" width = 70 height = 30> <img src="https://github.com/xvxn8899/xvxn8899.github.io/raw/main/img/xv.png" width = 120 height = 30>
 
-国内无需梯子 且 永久免费无限制
+永久免费 · 国内优化 · 无需梯子
 
 打开即可观看 `Pornhub` `XNXX` `XVIDEOS`
 
@@ -25,3 +23,5 @@ __Github：__[https://xvxn8899.github.io](https://xvxn8899.github.io/)
 __邮箱获取：__[XVXN888@Gmail.com](mailto:xvxn888@gmail.com)
 
 发送任意内容至邮箱也可获取地址
+
+Pornhub免翻版 · XNXX免翻版 · XVIDEOS免翻版
